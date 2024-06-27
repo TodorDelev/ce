@@ -6,7 +6,8 @@
  *
  * This software is distribute under MIT License
  */
-
+ 
+// 4.6.1
 if (! jSuites && typeof(require) === 'function') {
     var jSuites = require('jsuites');
     require('jsuites/dist/jsuites.css');
